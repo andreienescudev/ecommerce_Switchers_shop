@@ -1,0 +1,13 @@
+{
+  "firstname": "Andrei",
+  "middlename": "Ioan",
+  "lastname": "Enescu",
+  "type": "Buyer",
+  "gender": "Male",
+  "countryCode": "+40",
+  "phone": "729148048",
+  "adress": "Amurgului 56",
+  "email": "andrei_enescu07@yahoo.com",
+  "password": "123456",
+  "re_password": "123456"
+}
